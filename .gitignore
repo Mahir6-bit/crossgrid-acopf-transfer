@@ -1,0 +1,19 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+
+# data and results are archived on Zenodo, not in the repository
+data/*
+!data/README.md
+results/
+results_v1_weekly_split/
+logs/
+repro/
+
+# large binary files
+*.pt
+*.npz
+*.parquet
+*.zip
+*.rar
