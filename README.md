@@ -114,9 +114,9 @@ Run every command from the project folder with the environment active. Seeds are
 | N-1 test, training and validation sets | 2027, 2028, 2029 |
 | Outages withheld in the unseen-outage experiment | 7 |
 
-## Archived data
+## Archived version
 
-The processed data, the per-run metrics and the result tables are archived on Zenodo: [Zenodo DOI]. With them, steps 25–34 can be checked without retraining.
+This repository (release v1.0.0) is archived on Zenodo: [10.5281/zenodo.23989653](https://doi.org/10.5281/zenodo.23989653).
 
 ## License
 
